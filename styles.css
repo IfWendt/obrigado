@@ -104,7 +104,7 @@ h1 {
     }
 }
 
-/* telas muito pequenas */
+/* tela muito grande */
 @media screen and (min-width: 1200px) {
     .container {
         max-width: 800px;
